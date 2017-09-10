@@ -350,7 +350,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
 #### 现在MainActivity看起来就比较清晰了。实际项目中很多都是可以进一步封装的，比如showProgress是很多页面都会有的，就可以再抽一下。
 
 #### 按照这个流程走下来是没有问题的，用到什么写什么，可能你一开始就把http给配置好了，这个是没有什么问题的，但是一开始就写太多东西的话，后面实际用到的时候如果不是一开始想的那样，又得重新写或者改了，这是影响效率的，所以何不一步一步脚踏实地呢对吧。
-#### Demo地址：[https://github.com/yechaoa/RxJavaRetrofitMVPDemo](https://github.com/yechaoa/RxJavaRetrofitMVPDemo)
+#### 博客地址：[http://blog.csdn.net/yechaoa/article/details/77924063](http://blog.csdn.net/yechaoa/article/details/77924063)
 #### 相关资料
 #### MVP：[Android MVP模式实战](http://blog.csdn.net/yechaoa/article/details/73695607)
 #### Retrofit：[Retrofit2.0使用详解](http://blog.csdn.net/yechaoa/article/details/77434307)
