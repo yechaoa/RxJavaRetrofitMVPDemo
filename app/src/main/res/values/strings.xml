@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxJavaRetrofitMVPDemo</string>
+
+    <string name="github_token">9d43774b1ce07bc1abb84310252bc87b2f036a50</string>
+    <string name="clear">清空</string>
+    <string name="user_name">square</string>
+    <string name="repo">retrofit</string>
+
+</resources>
