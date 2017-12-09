@@ -21,7 +21,7 @@ MVP+Retrofit+RxJava简单事例
 
 #### 先加依赖 
 ```
-/*rotrofit*/
+/*retrofit*/
 compile 'com.squareup.retrofit2:retrofit:2.3.0'
 compile 'com.squareup.retrofit2:adapter-rxjava:2.3.0'
 compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
